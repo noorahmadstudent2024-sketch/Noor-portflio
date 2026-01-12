@@ -1,0 +1,19 @@
+{
+  "name": "accessibility-checker",
+  "version": "1.0.0",
+  "description": "Accessibility checking for portfolio website",
+  "author": "Portfolio Creator",
+  "main": "accessibility-checker.js",
+  "type": "a11y-assistant",
+  "triggers": [
+    "accessibility check",
+    "check accessibility",
+    "a11y review",
+    "accessibility audit",
+    "accessibility test",
+    "a11y test",
+    "accessibility review",
+    "check a11y"
+  ],
+  "dependencies": []
+}

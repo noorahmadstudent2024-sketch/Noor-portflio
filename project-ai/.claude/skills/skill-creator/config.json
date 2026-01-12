@@ -1,0 +1,14 @@
+{
+  "name": "skill-creator",
+  "version": "1.0.0",
+  "description": "A skill that helps create new skills by guiding through the process of defining what the skill does, trigger phrases, and generating the complete SKILL.md",
+  "author": "Portfolio Creator",
+  "main": "skill-creator.sh",
+  "type": "interactive",
+  "triggers": [
+    "create skill",
+    "new skill",
+    "skill creator",
+    "make skill"
+  ]
+}

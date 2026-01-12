@@ -1,0 +1,21 @@
+{
+  "name": "playwright-testing",
+  "version": "1.0.0",
+  "description": "Test my website visually",
+  "author": "Portfolio Creator",
+  "main": "playwright-testing.js",
+  "type": "visual-testing",
+  "triggers": [
+    "visual testing",
+    "playwright testing",
+    "test website visually",
+    "ui verification",
+    "responsive testing",
+    "screenshot test",
+    "visual regression",
+    "ui testing"
+  ],
+  "dependencies": [
+    "playwright"
+  ]
+}

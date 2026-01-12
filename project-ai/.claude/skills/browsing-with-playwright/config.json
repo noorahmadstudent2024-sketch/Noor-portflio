@@ -1,0 +1,21 @@
+{
+  "name": "browsing-with-playwright",
+  "version": "1.0.0",
+  "description": "Automated web browsing and testing with Playwright",
+  "author": "Portfolio Creator",
+  "main": "browsing-with-playwright.js",
+  "type": "browser-automation",
+  "triggers": [
+    "browse with playwright",
+    "use playwright",
+    "playwright automation",
+    "automated browsing",
+    "browser automation",
+    "web testing",
+    "page interaction",
+    "browser testing"
+  ],
+  "dependencies": [
+    "playwright"
+  ]
+}

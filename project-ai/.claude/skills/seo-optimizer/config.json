@@ -1,0 +1,19 @@
+{
+  "name": "seo-optimizer",
+  "version": "1.0.0",
+  "description": "SEO optimization assistance for portfolio website",
+  "author": "Portfolio Creator",
+  "main": "seo-optimizer.js",
+  "type": "seo-assistant",
+  "triggers": [
+    "seo optimization",
+    "optimize for seo",
+    "seo advice",
+    "improve seo",
+    "seo review",
+    "meta tags",
+    "search optimization",
+    "seo audit"
+  ],
+  "dependencies": []
+}

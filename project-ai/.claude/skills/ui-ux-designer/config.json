@@ -1,0 +1,20 @@
+{
+  "name": "ui-ux-designer",
+  "version": "1.0.0",
+  "description": "Help design beautiful UI components following your design system",
+  "author": "Portfolio Creator",
+  "main": "ui-ux-designer.js",
+  "type": "design-assistant",
+  "triggers": [
+    "ui design",
+    "ux design",
+    "create component",
+    "design component",
+    "help with UI",
+    "design button",
+    "create card",
+    "build form",
+    "make navigation"
+  ],
+  "dependencies": []
+}
